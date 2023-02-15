@@ -1,11 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Asap&family=Roboto:ital,wght@0,500;0,900;1,500&display=swap");
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 body {
   margin: 0;
   padding: 0;
-  font-family: "Asap", sans-serif;
+  font-family: "Open Sans", sans-serif;
   background-color: #fdfdfe;
 }
-
 h1 {
   background-color: purple;
   font-size: 70px;
