@@ -1,10 +1,12 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+/* @import url(https://fonts.googleapis.com/css?family=Open+Sans); */
+
 body {
   margin: 0;
   padding: 0;
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "Open Sans", sans-serif; */
   background-color: #fdfdfe;
 }
+
 h1 {
   background-color: purple;
   font-size: 70px;
